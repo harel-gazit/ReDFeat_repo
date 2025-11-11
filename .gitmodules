@@ -1,0 +1,6 @@
+[submodule "Multimodal_Feature_Evaluation"]
+    path = Multimodal_Feature_Evaluation
+    url = git@github.com:harel-gazit/Multimodal_Feature_Evaluation.git
+[submodule "ReDFeat"]
+    path = ReDFeat
+    url = git@github.com:harel-gazit/ReDFeat.git
